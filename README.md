@@ -12,13 +12,13 @@
   
   ### Languages and Tools:
   <p align="left">
-    <img src="https://github.com/Velfin-Velasquez/devicon/blob/master/icons/javascript/javascript-original.svg" alt="dart" width="22" height="22"/>
-    <img src="https://github.com/Velfin-Velasquez/devicon/blob/master/icons/typescript/typescript-original.svg" alt="dart" width="22" height="22"/>
+    <img src="https://external-content.duckduckgo.com/ip3/js.org.ico" alt="dart" width="22" height="22"/>
+    <img src="https://external-content.duckduckgo.com/ip3/www.typescriptlang.org.ico" alt="dart" width="22" height="22"/>
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/>
-    <img src="https://github.com/Velfin-Velasquez/devicon/blob/master/icons/ionic/ionic-original.svg" alt="dart" width="22" height="22"/>
+    <img src="https://external-content.duckduckgo.com/ip3/ionicframework.com.ico" alt="dart" width="22" height="22"/>
     <img src="https://github.com/Velfin-Velasquez/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="dart" width="22" height="22"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="dart" width="22" height="22"/>
-    <img src="https://github.com/Velfin-Velasquez/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="dart" width="22" height="22"/>
+    <img src="https://external-content.duckduckgo.com/ip3/getbootstrap.com.ico" alt="dart" width="22" height="22"/>
   </p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velfin-Velasquez&layout=compact&hide=html" alt="Velfin-Velasquez" />
    
