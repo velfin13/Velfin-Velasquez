@@ -16,7 +16,7 @@
     <img src="https://external-content.duckduckgo.com/ip3/www.typescriptlang.org.ico" alt="dart" width="22" height="22"/>
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/>
     <img src="https://external-content.duckduckgo.com/ip3/ionicframework.com.ico" alt="dart" width="22" height="22"/>
-    <img src="https://github.com/Velfin-Velasquez/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="dart" width="22" height="22"/>
+    <img src="https://external-content.duckduckgo.com/ip3/nodejs.org.ico" alt="dart" width="22" height="22"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="dart" width="22" height="22"/>
     <img src="https://external-content.duckduckgo.com/ip3/getbootstrap.com.ico" alt="dart" width="22" height="22"/>
   </p>
