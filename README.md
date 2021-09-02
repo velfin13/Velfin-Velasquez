@@ -23,12 +23,12 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="dart" width="22" height="22"/>
     <img src="https://github.com/josephdgb1996/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="dart" width="22" height="22"/>
   </p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephdgb1996&layout=compact&hide=html" alt="josephdgb1996" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velfin-Velasquez&layout=compact&hide=html" alt="josephdgb1996" />
    
   <br>
   
   ### My Stats:
-  <img src="https://github-readme-stats.vercel.app/api?username=josephdgb1996&show_icons=true" alt="josephdgb1996" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Velfin-Velasquez&show_icons=true" alt="josephdgb1996" />
   
 </div>
 
