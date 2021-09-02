@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Velfin Velasquez</h1>
 <h3 align="center">A self-taught programmer and born at very little age😜</h3>
 
-- 🔭 I’m currently working on [Joseph García](https://www.youtube.com/channel/UCHTSG1INQutbW1DMfA6zXOw?view_as=subscriber/), [Ebit Software](http://ebit-software.com), [Sistemas Informaticos Genesis](https://sistemasgenesis.com.ec/),
 
-- 🌱 I’m currently learning **Flutter**, **Microservices**
+- 🌱 I’m currently learning **React**, **Microservices**
 
 - 👯 I’m looking to collaborate with **other content creators**
 
-- 🎮 Fun fact **I love to play video games**
 
 <br>
 
