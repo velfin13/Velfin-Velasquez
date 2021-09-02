@@ -21,6 +21,7 @@
     <img src="https://external-content.duckduckgo.com/ip3/getbootstrap.com.ico" alt="dart" width="22" height="22"/>
   </p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velfin-Velasquez&layout=compact&hide=html" alt="Velfin-Velasquez" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velfin-Velasquez&layout=compact&hide=html" alt="Velfin-Velasquez" />
    
   <br>
   
