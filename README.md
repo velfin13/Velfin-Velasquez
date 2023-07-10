@@ -2,11 +2,6 @@
 <h3 align="center">A self-taught programmer and born at very little age😜</h3>
 
 
-- 🌱 I’m currently learning **React**, **Microservices**
-
-- 👯 I’m looking to collaborate with **other content creators**
-
-
 <br>
 
 <div>
