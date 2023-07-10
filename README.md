@@ -7,19 +7,12 @@
   
   ### Languages and Tools:
   <p align="left">
-
     <img src="https://github.com/velfin13/devicon/blob/master/icons/javascript/javascript-original.svg" alt="dart" width="22" height="22"/>
-
     <img src="https://github.com/velfin13/devicon/blob/master/icons/typescript/typescript-original.svg" alt="dart" width="22" height="22"/>
-
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/>
-
     <img src="https://github.com/velfin13/devicon/master/icons/docker/docker-original.svg" alt="dart" width="22" height="22"/>
-
     <img src="https://github.com/velfin13/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="dart" width="22" height="22"/>
-
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="dart" width="22" height="22"/>
-
     <img src="https://github.com/velfin13/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="dart" width="22" height="22"/>
 
   </p>
