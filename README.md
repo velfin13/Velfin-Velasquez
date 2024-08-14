@@ -1,3 +1,28 @@
+<!-- Header:START -->
+
+<p align="center">
+   <img align="right" src="https://komarev.com/ghpvc/?username=tugsef&&style=plastics&&color=yellow" />
+  <br>
+    <br>
+   <img  src="https://i.imgur.com/A6bWGFl.gif"/>
+</p>
+    <video
+        autoPlay
+        muted
+        loop
+        className="w-full h-screen object-cover object-center opacity-70"
+        playsInline
+        disableRemotePlayback={true}
+      >
+        <source src="/media/logo-video.mp4" type="video/mp4" />
+      </video>
+<p align="center" >
+    <img      src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
+</p>
+
+<!-- Header:END -->
+
+
 <h1 align="center">Hi 👋, I'm Velfin Velasquez</h1>
 <h3 align="center">A self-taught programmer and born at very little age😜</h3>
 
