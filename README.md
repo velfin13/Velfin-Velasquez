@@ -31,29 +31,6 @@ _____________|','   ///_/-------------/   |
 
 <br>
 
-
-<!-- Otro:START -->
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/>
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/>
-<div align="center">
-  <a href="https://github.com/velfin13">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=velfin13&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=velfin13&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<b/>
-
-<!-- Otro:END -->   
-
-
-<!-- ANIMATION:START-->
-
-<a href="https://www.animatedimages.org/cat-lines-562.htm">
-   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/></a>
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/>
-
-<!-- ANIMATION:END-->
-
-
 <!-- LANGUAGES-AND-TOOLS:START-->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35" height="35"> Languages and Tools:
@@ -83,6 +60,30 @@ _____________|','   ///_/-------------/   |
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/></a>
 
 <!-- LANGUAGES-AND-TOOLS:END-->
+
+<!-- Otro:START -->
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/>
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/>
+<div align="center">
+  <a href="https://github.com/velfin13">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=velfin13&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=velfin13&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<b/>
+
+<!-- Otro:END -->   
+
+
+<!-- ANIMATION:START-->
+
+<a href="https://www.animatedimages.org/cat-lines-562.htm">
+   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/></a>
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/>
+
+<!-- ANIMATION:END-->
+
+
+
 
 
 <!-- GITHUB-TROPHIES:START-->
