@@ -24,3 +24,25 @@
   <img src="https://github-readme-stats.vercel.app/api?username=velfin13&show_icons=true" alt="josephdgb1996" />
   
 </div>
+
+
+<!-- CONTACT:START-->
+
+## <img src="https://www.animatedimages.org/data/media/235/animated-email-image-0597.gif" width="45" height="45"/>Contact
+
+<p align="center">
+<table align="center">
+  <tr align="left">
+    <th><b>SEFA DEMİRTAŞ</b></th>
+  </tr>
+  <tr>
+    <td>Software Developer</td>
+  </tr>
+  <tr>
+    <td><a href="mailto:velfinvelasquez@gmail.com">velfinvelasquez@gmail.com</a></td>
+  </tr>
+</table>
+</p>
+
+<br>
+<!-- CONTACT:END-->
