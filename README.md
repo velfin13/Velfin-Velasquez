@@ -32,9 +32,6 @@
 
 <p align="center">
 <table align="center">
-  <tr align="left">
-    <th><b>SEFA DEMİRTAŞ</b></th>
-  </tr>
   <tr>
     <td>Software Developer</td>
   </tr>
