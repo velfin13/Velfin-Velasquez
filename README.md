@@ -27,6 +27,7 @@
 
 <!-- Otro:START -->
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/>
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/>
 <div align="center">
   <a href="https://github.com/velfin13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=velfin13&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
