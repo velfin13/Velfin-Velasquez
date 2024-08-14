@@ -25,6 +25,15 @@
   
 </div>
 
+<!-- ANIMATION:START-->
+
+<a href="https://www.animatedimages.org/cat-lines-562.htm">
+   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/></a>
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/>
+
+<!-- ANIMATION:END-->
+
+
 <!-- LANGUAGES-AND-TOOLS:START-->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35" height="35"> Languages and Tools:
