@@ -1,24 +1,24 @@
 <!-- Header:START -->
 
-<p align="center">
-   <img align="right" src="https://komarev.com/ghpvc/?username=tugsef&&style=plastics&&color=yellow" />
-  <br>
-    <br>
-   <img  src="https://i.imgur.com/A6bWGFl.gif"/>
-</p>
-    <video
-        autoPlay
-        muted
-        loop
-        className="w-full h-screen object-cover object-center opacity-70"
-        playsInline
-        disableRemotePlayback={true}
-      >
-        <source src="/media/logo-video.mp4" type="video/mp4" />
-      </video>
-<p align="center" >
-    <img      src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
-</p>
+                             \\\\\\\
+                            \\\\\\\\\\\\
+                          \\\\\\\\\\\\\\\
+  -----------,-|           |C>   // )\\\\|
+           ,','|          /    || ,'/////|
+---------,','  |         (,    ||   /////
+         ||    |          \\  ||||//''''|
+         ||    |           |||||||     _|
+         ||    |______      `````\____/ \
+         ||    |     ,|         _/_____/ \
+         ||  ,'    ,' |        /          |
+         ||,'    ,'   |       |         \  |
+_________|/    ,'     |      /           | |
+_____________,'      ,',_____|      |    | |
+             |     ,','      |      |    | |
+             |   ,','    ____|_____/    /  |
+             | ,','  __/ |             /   |
+_____________|','   ///_/-------------/   |
+              |==========='
 
 <!-- Header:END -->
 
