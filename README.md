@@ -24,7 +24,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Velfin Velasquez</h1>
-<h3 align="center">A self-taught programmer and born at very little age😜</h3>
+<h3 align="center">Self-taught programmer passionate about the world of software development😜</h3>
 
 <br>
 
